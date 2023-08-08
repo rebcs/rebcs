@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rebeca</h1>
-<img align="right" alt="Learning Through Design" width="400" src="https://media1.giphy.com/media/kBLvnPFqxYzIRrzFxo/giphy.gif?cid=ecf05e479dqie4q4yzao7gnznh2wm5su8kojrmvbr8jalclx&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media2.giphy.com/media/kwyjFvuaqz5Kzcawp9/giphy.gif">
+<img align="right" alt="Learning Through Design" width="200" src="https://media1.giphy.com/media/kBLvnPFqxYzIRrzFxo/giphy.gif?cid=ecf05e479dqie4q4yzao7gnznh2wm5su8kojrmvbr8jalclx&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media2.giphy.com/media/kwyjFvuaqz5Kzcawp9/giphy.gif">
 
 <p align="left">
 </p>
