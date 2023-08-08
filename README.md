@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rebeca</h1>
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://media1.giphy.com/media/kBLvnPFqxYzIRrzFxo/giphy.gif?cid=ecf05e479dqie4q4yzao7gnznh2wm5su8kojrmvbr8jalclx&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <p align="left">
 </p>
 
