@@ -1,5 +1,5 @@
 ## <h2 align="left">Welcome 👋! </h2>
--  Hi! My name is Rebeca, I'm 23 years old and I'm  front-end developer graduating in Systems Analysis and Development. 👩🏻‍🎓
+-  Hi! My name is Rebeca, I'm 23 years old and I'm  a front-end developer graduating in Systems Analysis and Development. 👩🏻‍🎓
 -  I've always been passionate about language learning, I'm studying mandarin and am currently preparing to take the HSK1 exam. 📝
 
 
