@@ -1,6 +1,10 @@
-<h2 align="left">Welcome 👋! </h2>
+## <h2 align="left">Welcome 👋! </h2>
+-  Hi! My name is Rebeca, I'm 23 years old and I'm  front-end developer graduating in Systems Analysis and Development. 👩🏻‍🎓
+-  I've always been passionate about language learning, I'm studying mandarin and am currently preparing to take the HSK1 exam. 📝
 
-## Ferramentas e Tecnologias que estou aprendendo
+
+
+## Currently Learning
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"   width="40" height="40"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"  width="40" height="40"/>
 <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"  width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"   width="40" height="40"/>
