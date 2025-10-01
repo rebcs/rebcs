@@ -11,8 +11,7 @@
 Meu nome é Rebeca e sou uma entusiasta de tecnologia trilhando um caminho que une o universo do desenvolvimento Front-End com o meu foco atual: a Cibersegurança. Abaixo, conto um pouco mais sobre essa jornada:
 
 - 🌱 **No que estou focada:** Atualmente, dedico meus estudos a ferramentas de Pentest e análise de vulnerabilidades para entender como proteger aplicações web de ponta a ponta.
-- ✨ **Minha filosofia:** Acredito que a melhor defesa começa na primeira linha de código. Por isso, uso minha experiência em Front-End para pensar em interfaces que sejam seguras desde sua concepção.
-- 🌸 **Fora do código:** Meus hobbies incluem pintura, culinária e o aprendizado de novos idiomas, atividades que me ajudam a pensar de forma mais criativa e estruturada.
+- 🌸 **Hobbies:** Pintura, culinária e o aprendizado de novos idiomas.
 
 <br>
 
