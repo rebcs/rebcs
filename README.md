@@ -29,7 +29,6 @@
       <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
     </td>
     <td align="center">
-      <p>Linguagens mais utilizadas:</p>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebcs&layout=compact&langs_count=7&theme=catppuccin_latte"/>
     </td>
   </tr>
@@ -38,13 +37,15 @@
 
 ---
 
-<div align="center">
-  <h3>Vamos nos conectar? ( ´ ∀ ` )ノ～ ♡</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/rebeca--santos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FFC0CB" /></a>
-  </p>
+<div>
+  <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHXT/giphy.gif" width="250" align="right" />
+  <div align="center">
+      <h3>Vamos nos conectar? ( ´ ∀ ` )ノ～ ♡</h3>
+      <p>
+          <a href="https://www.linkedin.com/in/rebeca--santos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FFC0CB" /></a>
+      </p>
+  </div>
 </div>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHXT/giphy.gif" width="250"/>
-</div>
+
+
