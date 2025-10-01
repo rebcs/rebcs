@@ -16,25 +16,24 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <p>Aqui estão algumas das tecnologias com as quais tenho experiência e/ou estou estudando.🌱</p>
-  
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  
-  <br>
-  <hr>
-  
-  <p>E estas são as linguagens que o GitHub me viu usando mais recentemente:</p>
-    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebcs&layout=compact&langs_count=7&theme=catppuccin_latte"/>
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>Aqui estão algumas das tecnologias com as quais tenho experiência e/ou estou estudando.🌱</p>
+      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <p>Linguagens mais utilizadas:</p>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebcs&layout=compact&langs_count=7&theme=catppuccin_latte"/>
+    </td>
+  </tr>
+</table>
 <br>
 
 ---
