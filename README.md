@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFlYzU5Zm5uZ3doNzgzMHNuYjZ5Yjdvdzk1dWZodDZidTNsYnY3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1IJCHylHJe6RSjs9gj/giphy.gif" alt="Banner de flores laranjas em movimento" width="1000"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFlYzU5Zm5uZ3doNzgzMHNuYjZ5Yjdvdzk1dWZodDZidTNsYnY3aCZlcD12MV9pbnRlcm5hb19naWZfYnlfaWQmY3Q9Zw/1IJCHylHJe6RSjs9gj/giphy.gif" alt="Banner de flores laranjas em movimento" width="1000"/>
   
   <h2>Olá! (^-^*)/ </h2>
 </div>
 
+---
 
 ### 💖 Sobre Mim
 
-- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas e Segurança da Informação.
-- 💼 **Experiência:** Desenvolvimento Front-End.
-- 🎯 **Foco Atual:** Cibersegurança, com estudos em ferramentas de Pentest e análise de vulnerabilidades.
-- 🌸 **Hobbies:** Pintura, culinária e aprendizado de idiomas.
+Meu nome é Rebeca e sou uma entusiasta de tecnologia trilhando um caminho que une o universo do desenvolvimento Front-End com o meu foco atual: a Cibersegurança. Abaixo, conto um pouco mais sobre essa jornada:
+
+- 🌱 **No que estou focada:** Atualmente, dedico meus estudos a ferramentas de Pentest e análise de vulnerabilidades para entender como proteger aplicações web de ponta a ponta.
+- ✨ **Minha filosofia:** Acredito que a melhor defesa começa na primeira linha de código. Por isso, uso minha experiência em Front-End para pensar em interfaces que sejam seguras desde sua concepção.
+- 🌸 **Fora do código:** Meus hobbies incluem pintura, culinária e o aprendizado de novos idiomas, atividades que me ajudam a pensar de forma mais criativa e estruturada.
 
 <br>
 
@@ -33,19 +35,16 @@
     </td>
   </tr>
 </table>
+
 <br>
 
 ---
 
 <div>
-  <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHXT/giphy.gif" width="250" align="right" />
-  <div align="center">
+  <img src="https://media.giphy.com/media/hDG5fDJJCIIFjvkHXT/giphy.gif" width="180" align="right" /> <div align="left">
       <h3>Vamos nos conectar? ( ´ ∀ ` )ノ～ ♡</h3>
       <p>
           <a href="https://www.linkedin.com/in/rebeca--santos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FFC0CB" /></a>
       </p>
   </div>
 </div>
-
-
-
