@@ -9,7 +9,6 @@
 
 Meu nome é Rebeca, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas, juntamente com Segurança da Informação. Já trabalhei com Front-End e atualmente estou focando meus estudos em Cibersegurança.
 
-- 🌱 &nbsp; No momento, estou aprofundando meus conhecimentos em **ferramentas de Pentest e análise de vulnerabilidades**.
 - 🌸 &nbsp; Meus hobbies incluem **pintura, culinária e aprendizado de idiomas**.
 
 <br>
